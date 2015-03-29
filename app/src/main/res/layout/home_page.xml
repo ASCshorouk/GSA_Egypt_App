@@ -1,0 +1,82 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+     >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#3369e8"
+        android:layout_weight="1"
+        android:text="About GSA Program"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp" />
+    
+     <Button
+        android:id="@+id/button2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#d50f25"
+        android:layout_weight="1"
+        android:text="Find The Nearby GSA"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"  />
+     
+      <Button
+        android:id="@+id/button3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#eeb211"
+        android:layout_weight="1"
+        android:text="Google For Education"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"  />
+      
+       <Button
+        android:id="@+id/button4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#009939"
+        android:layout_weight="1"
+        android:text="Google Jobs"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"  />
+       
+        <Button
+        android:id="@+id/button5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#3369e8"
+        android:layout_weight="1"
+        android:text="Google Arabia Blog"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"  />
+       
+         <Button
+        android:id="@+id/button6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#d50f25"
+        android:layout_weight="1"
+        android:text="Memories From Summits"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"  />
+       
+       
+
+</LinearLayout>

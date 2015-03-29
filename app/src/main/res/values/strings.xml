@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GSA EGYPT</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">GSA EGYPT</string>
+    
+    
+    <string name="c1">The Google Student Ambassador Program is an opportunity for students to serve as liasions between Google and their university.</string>
+    <string name="c2">These are undergraduate students of any discipline who share our passion about technology and Google.</string>
+    <string name="c3">Duties of a Student Ambassador : </string>
+    <string name="c4">Organize events to champion Google’s products and brand on campus.</string>
+    <string name="c5">Build Relationships on campus with faculty,staff and student groups.</string>
+    <string name="c6">Promote new products,campaigns,jobs and programs aimed at students.</string>
+    <string name="c7">Facilitate and support the school’s adoption and usage of Google Apps for Education.</string>
+    <string name="c8">Work with Google teams to help us better understand your campus culture.</string>
+    <string name="c9">Benfits :</string>
+    <string name="c10">Receive regular updates and training about Google products and features.</string>
+    <string name="c11">Build your resume and enhance leadership and communication skills.</string>
+    <string  name="c12">Develop Relationships with Ambassadors from other schools around the world.</string>
+    <string name="c13">Gain exposure to faculty and staff across campus.</string>
+    <string name="c14">Get lots of Google swag and goodies.</string>
+    <string name="c15">Time commitment : </string>
+    <string name="c16">One academic school year.</string>
+    <string name="c17">Approximately eight hours/month.</string>
+    <string name="c18">5 events per school years.</string>
+</resources>

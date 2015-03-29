@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gsamena.gsaegypt"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.gsamena.gsaegypt.NearbyGSA"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.ShoroukMap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Cairomap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Ainshamsmap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Alexmap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Aucmap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Arabacademymap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Assuitmap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Benhamap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Britishmap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Germanmap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Helwanuniversity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Monofyamap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Fernandomap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Googlearabia"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Googleforeducation"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Googlejobs"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Modernmap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Nilemap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Octobermap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Suezmap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Tantamap"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.No_Internet"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.HomePage"
+            android:label="@string/app_name" >
+            
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.Imageslider"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.gsamena.gsaegypt.AboutGSA"
+            android:label="@string/app_name" >
+        </activity>
+        
+        
+        <activity
+            android:name="com.gsamena.gsaegypt.SplashScreen"
+            android:label="@string/app_name" >
+            
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            
+        </activity>
+        
+        
+    </application>
+
+</manifest>
